@@ -1,0 +1,10 @@
+body {
+background-color: rosybrown;
+background-image: url(https://www.proyectacolor.cl/wp-content/uploads/2008/12/ros3.jpg);
+}
+label{
+    font-size: 2em;
+}
+input {
+    width: 80%;
+}
